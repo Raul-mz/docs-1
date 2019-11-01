@@ -2,7 +2,7 @@ site_name: E.R.P. Consultores y Asociados - Documentación
 
 
 
-pages:
+nav:
 
     - Inicio: 'index.md'
 
