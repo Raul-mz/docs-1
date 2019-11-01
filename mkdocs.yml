@@ -104,8 +104,6 @@ markdown_extensions:
   - pymdownx.striphtml:
   - pymdownx.snippets:
       base_path: docs/src/markdown/_snippets
-  - pymdownx.keys:
-      separator: "\uff0b"
   - pymdownx.details:
 theme:
   name: null
